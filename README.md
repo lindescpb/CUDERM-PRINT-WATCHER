@@ -2,7 +2,7 @@
 
 A simple and reliable application that watches a folder for text files, cleans them, and sends them to a printer.
 
-Built with love after hours — named after my family:  
+Built after hours — named after my family:  
 **C**hantelle, **U**llyndyss (junior), **D**aniel, **E**li and **R**aniyah Maloy ❤️
 
 ---
@@ -73,8 +73,7 @@ This tool was developed on a best-effort basis. No formal technical support is p
 
 ## Author
 
-Developed by Ullyndyss with love for his family.
-
+Developed by Ullyndyss Maloy
 ---
 
 ## License
